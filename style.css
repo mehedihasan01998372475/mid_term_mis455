@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.wrapper{
+	width: 100%;
+	height: 100vh;
+	background: #4cd14c1f;
+}
+
+nav{
+	background: transparent;
+}
+
+/*.lst_cld{
+	margin-right: 5rem;
+}*/
+
+.nav-item{
+	margin: 0 2rem;
+}
+
+.nav-item a{
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.lst_cld{
+	color: #fff;
+	padding: 4px 22px;
+	background: #39ab3dd9;
+	border-radius: 25px;
+}
+
